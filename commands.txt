@@ -11,3 +11,11 @@ git commit -m "Initial Commit"
 git remote add origin https://github.com/stradtkt/gittest.git
 git push -u origin master
 code . (opens visual studio code make changes to aboutMe.txt)
+git add *
+git commit -m "updated aboutMe.txt"
+git add *
+git commit -m "added favorite movie to aboutMe.txt"
+git log
+git revert --no-edit HEAD
+git add *
+git commit -m "updated aboutMe.txt to add favorite book"
