@@ -1,3 +1,4 @@
 This is a short bio about Kevin Stradtman.
 I am from Cincinnati Ohio.
 I love to program especially in JavaScript.
+I have a dog named Buster, he is a yellow lab.

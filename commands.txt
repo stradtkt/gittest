@@ -1,0 +1,13 @@
+cd Desktop
+md gittest
+cd gittest
+copy NUL index.html
+copy NUL style.css
+copy NUL aboutMe.txt
+git init 
+git status
+git add *
+git commit -m "Initial Commit"
+git remote add origin https://github.com/stradtkt/gittest.git
+git push -u origin master
+code . (opens visual studio code make changes to aboutMe.txt)
